@@ -155,4 +155,15 @@ footer.site-footer a:hover {
   flex: 1 1 200px;
 }
 
+.navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.hero-section{
+  margin-top: 70px;
+}
 
